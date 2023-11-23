@@ -88,11 +88,16 @@ int convert_temp() {
 	return 0;
 }
 
+int double_product() {
+
+	return 0;
+}
+
 int main() {
 	
 	//sum();
 
 	//convert_ft_m();
 
-	return convert_temp();
+	//return convert_temp();
 }
